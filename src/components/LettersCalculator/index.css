@@ -1,0 +1,30 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: roboto;
+  height: 100vh;
+}
+.input-phrase {
+  padding: 15px;
+  border-style: none;
+  border-radius: 5px;
+}
+
+.calculating-container {
+  color: #ffffff;
+}
+.count-button {
+  background-color: #ffffff;
+  padding: 15px;
+  color: #219a6f;
+  font-weight: bold;
+  border-style: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  outline: none;
+}
